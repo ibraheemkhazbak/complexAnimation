@@ -1,0 +1,15 @@
+{
+  "name": "complexanimation",
+  "version": "1.0.0",
+  "description": "complex animation",
+  "main": "server.js",
+  "scripts": {
+    "devstart": "nodemon server.js"
+  },
+  "author": "Khazbak",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
